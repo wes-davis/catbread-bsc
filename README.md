@@ -1,7 +1,8 @@
 Submitted for verification at BscScan.com on 2021-06-02
 
-CatBread — a deflationary token on the Binance Smart Chain
-catbread.club
+CatBread — a deflationary token, launched on the Binance Smart Chain
+
+https://CatBread.club | https://t.me/Cat_Bread
 
 Note:
   - This contract is based on UltraSafe: 0x0b3f42481C228F70756DbFA0309d3ddC2a5e0F6a
